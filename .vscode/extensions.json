@@ -1,7 +1,6 @@
 {
   "recommendations": [
-    "esbenp.prettier-vscode",
-    "GitHub.vscode-pull-request-github",
-    "eamodio.gitlens"
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode"
   ]
 }
